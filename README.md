@@ -1,2 +1,2 @@
 # Excel_Project
-This is an Excel end to end project
+This is an Excel end to end project for retail online store analysis 
